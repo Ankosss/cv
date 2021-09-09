@@ -1,0 +1,243 @@
+#main
+{
+	background-color: #002060;
+	width: 70%;
+	height: auto;
+	margin: auto;
+	-webkit-box-shadow: 3px 3px 5px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    3px 3px 5px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         3px 3px 5px 0px rgba(50, 50, 50, 0.75);
+}
+#left
+{
+	background-color: #002060;
+	height: auto;
+	min-height: 1000px;
+	width: 35%;
+}
+
+.left-area
+{
+	
+	height: auto;
+	width: 90%;
+	padding: 10px;
+	padding-left: 20px;
+	color: white;
+
+
+}
+
+#left h1
+{
+	color: white;
+	font-size: 25px;
+	font-family: Century Gothic;
+}
+#left h2
+{
+	color: white;
+	font-size: 15px;
+	font-family: Century Gothic;
+}
+#left h3
+{
+	color: white;
+	font-size: 13px;
+	font-weight: 100;
+	font-family: Century Gothic;
+	line-height: 2px;
+}
+#left h4
+{
+	color: white;
+	font-size: 10px;
+	font-weight: 100;
+	font-family: Century Gothic;
+	line-height: 4px;
+}
+#left a
+{
+	color: #aaa;
+	font-size: 13px;
+	font-weight: 100;
+	font-family: Century Gothic;
+	text-decoration: none;
+}
+
+
+.left-banner
+{
+	background-color: #00194c;
+	height: 30px;
+	width: 100%;
+	text-align: left;
+	line-height: 7px;
+	padding: 7px;
+	padding-left: 10px ;
+}
+
+.stat-bar
+{
+	width: 90%;
+	height: 7px;
+	background-color: #00194c;
+
+}
+.stat-bar-2
+{
+	width: 60%;
+	height: 7px;
+	background-color:white ;
+
+}
+.tier-a .stat-bar-2
+{
+	width: 90%;
+}
+.tier-b .stat-bar-2
+{
+	width: 70%;
+}
+.tier-c .stat-bar-2
+{
+	width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#right
+{
+	background-color: white;
+	height: auto;
+	min-height: 1000px;
+	width: 65%;
+}
+
+.right-area
+{
+	height: auto;
+	width: 90%;
+	padding: 10px;
+	color: white;
+	background-color: white;
+	margin: auto;
+	border-bottom: 2px #aaa solid;
+}
+
+.right-area:last-child
+{
+	border-bottom: none;
+}
+.right-banner
+{
+	background-color: white;
+	width: 90%;
+	margin: auto;
+}
+#right h1
+{
+	color: #002060;
+	font-size: 17px;
+	font-family: Century Gothic;
+	font-weight: bold;
+	
+}#right h2
+{
+	color: black;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Century Gothic;
+	
+}#right h3
+{
+	color: black;
+	font-size: 12px;
+	font-weight: 300;
+	font-family: Century Gothic;
+	
+}
+
+
+.school-information
+{
+	width: 60%;
+	height: auto;
+	float: left;
+	line-height: 10px;
+	margin-left: 20px;
+}
+.school-information h2
+{
+	line-height: 0px;
+}
+.school-date
+{
+
+	width: 20%;
+	height: auto;
+	float: left;
+	line-height: 15px;
+}
+#right ul
+{
+	color: black;
+	list-style-type: disc;
+}
+#right ul li 
+{
+	line-height: 2px;
+}
+
+#right ul li h3
+{
+	line-height: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.float
+{
+	float: left;
+}
+.clear
+{
+	clear: both;
+	overflow: auto;
+}
