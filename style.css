@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
 #main
 {
 	background-color: #002060;
@@ -32,20 +34,20 @@
 {
 	color: white;
 	font-size: 25px;
-	font-family: Century Gothic;
+	font-family: 'Poppins', sans-serif;
 }
 #left h2
 {
 	color: white;
 	font-size: 15px;
-	font-family: Century Gothic;
+	font-family: 'Poppins', sans-serif;
 }
 #left h3
 {
 	color: white;
 	font-size: 13px;
 	font-weight: 100;
-	font-family: Century Gothic;
+	font-family: 'Poppins', sans-serif;
 	line-height: 2px;
 }
 #left h4
@@ -53,7 +55,7 @@
 	color: white;
 	font-size: 10px;
 	font-weight: 100;
-	font-family: Century Gothic;
+	font-family: 'Poppins', sans-serif;
 	line-height: 4px;
 }
 #left a
@@ -61,7 +63,7 @@
 	color: #aaa;
 	font-size: 13px;
 	font-weight: 100;
-	font-family: Century Gothic;
+	font-family: 'Poppins', sans-serif;
 	text-decoration: none;
 }
 
@@ -157,7 +159,7 @@
 {
 	color: #002060;
 	font-size: 17px;
-	font-family: Century Gothic;
+	font-family: 'Poppins', sans-serif;
 	font-weight: bold;
 	
 }#right h2
@@ -165,14 +167,14 @@
 	color: black;
 	font-size: 14px;
 	font-weight: bold;
-	font-family: Century Gothic;
+	font-family: 'Poppins', sans-serif;
 	
 }#right h3
 {
 	color: black;
 	font-size: 12px;
 	font-weight: 300;
-	font-family: Century Gothic;
+	font-family: 'Poppins', sans-serif;
 	
 }
 
