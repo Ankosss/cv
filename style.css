@@ -95,15 +95,16 @@
 }
 .tier-a .stat-bar-2
 {
-	width: 90%;
+	width: 50%;
 }
+
 .tier-b .stat-bar-2
 {
-	width: 70%;
+	width: 40%;
 }
 .tier-c .stat-bar-2
 {
-	width: 50%;
+	width: 20%;
 }
 
 
