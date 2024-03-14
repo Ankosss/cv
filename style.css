@@ -172,6 +172,18 @@
 {
 	line-height: 5px;
 }
+
+.school-info
+{
+	
+	width: 100%;
+	height: auto;
+	float: left;
+}
+.school-info li
+{
+	list-style-type: none;
+}
 .school-date
 {
 	width: 30%;
